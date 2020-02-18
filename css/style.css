@@ -37,3 +37,7 @@ header figure{
 section h2 {
 	color: grey;
 }
+
+div#press-icons {
+	float: left
+}
