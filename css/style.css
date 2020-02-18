@@ -26,6 +26,5 @@ header figure{
 	display: block;
 	margin: 0 auto;
 	width: 100%;
-	border: 25px;
-	border-color: grey;
+	border: 25px solid grey;
 }
