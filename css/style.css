@@ -33,3 +33,7 @@ header figure{
 	width: 100%;
 	border: 10px solid grey;
 }
+
+section h2 {
+	color: grey;
+}
