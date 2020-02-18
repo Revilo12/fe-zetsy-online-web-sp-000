@@ -39,7 +39,7 @@ section h2 {
 }
 
 div#press-icons figure {
-	float: left;
+	display: inline-block;
 	margin:auto;
 	padding: 5px;
 }
