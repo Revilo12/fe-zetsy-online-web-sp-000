@@ -23,5 +23,5 @@ header h1 {
 }
 
 header figure {
-	width: 100%
+	width: auto;
 }
