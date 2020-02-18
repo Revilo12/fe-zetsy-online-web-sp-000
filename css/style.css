@@ -23,8 +23,5 @@ header h1 {
 }
 
 img#necklace-img {
-	width: 100%;
-	margin: 0 auto;
-	border: 25px;
-	border-color: grey;
+	float: left
 }
