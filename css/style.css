@@ -2,7 +2,7 @@
 
 /* link the web font used for the level 1 heading here */
 @font-face {
-	font-family: 'Baskerville';
+	font-family: Baskerville;
 	src: "./fonts/Baskerville.ttc" format('ttc');
 }
 /*////////// Global Styles //////////*/
@@ -23,7 +23,7 @@ body {
 header h1 {
 	color: grey;
 	font-size: 60px;
-	font-family: "Baskerville";
+	font-family: Baskerville;
 }
 
 header figure{
