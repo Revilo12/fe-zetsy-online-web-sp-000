@@ -20,7 +20,7 @@ body {
 header h1 {
 	color: grey;
 	font-size: 60px;
-	font-family: 'serif';
+	font-family: sans-serif;
 }
 
 header figure{
